@@ -1,9 +1,16 @@
-#include <bits/stdc++.h>
+#include <iostream.h>
 using namespace std;
 
 int main(){
+   #ifndef ONLINE_JUDGE
+        freopen("input.txt","r",stdin);
+        freopen("output.txt","w",stdout);
+    #endif
    
    //Write code here  
+   int a=2;
+   cout<<a;
+
          
 
    return 0;    

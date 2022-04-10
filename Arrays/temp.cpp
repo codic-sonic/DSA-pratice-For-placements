@@ -6,12 +6,11 @@ int main(){
         freopen("input.txt","r",stdin);
         freopen("output.txt","w",stdout);
     #endif
-   int a=12;
+   int a=1;
    cout<<a;
    
    
 
    return 0;    
 }
-
 
